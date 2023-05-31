@@ -89,4 +89,10 @@ describe("CarController", () => {
       });
     });
   });
+
+  describe("#handleRentCar", () => {});
+
+  describe("#handleUpdateCar", () => {});
+
+  describe("#handleDeleteCar", () => {});
 });
